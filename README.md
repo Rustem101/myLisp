@@ -6,4 +6,4 @@ list manipulation (head, tail, join, eval). Additionally, the interpreter allows
 
 ![image](https://github.com/Rustem101/myLisp/assets/44526117/db55aa02-2d0e-4b0f-bcd6-19026ca352e9)
 
-Based on: buildyourownlisp.com
+Based on: https://buildyourownlisp.com/
